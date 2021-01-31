@@ -1,9 +1,15 @@
 <?php
-$arr1=[[]];
-for($i=0;$i<5;$i++){
-    array_push($arr1,$i);
-    for($j=0;$j<5;$j++){
-        array_push($arr1,$i,$j);
+function findMax($arr){
+    $max = $arr[0][0];
+    for ($i = 0; $i<nt($arr); $i++){
+        for($j= 0; $j <count($arr[$i]); $j++){
+            if ($max < $arr[$i][$j]){
+                $max = $arr[$i][$j];
+            }
+        }
     }
+    return $max;
 }
-echo $arr1;
+
+$arr = [[1,2,8],[0,-2,5],[6,0,7]];
+echo findMax($arr);
