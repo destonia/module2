@@ -1,2 +1,9 @@
 <?php
-include (dirname(__DIR__)."Animal.php");
+include_once (dirname(__FILE__)."/../AbstractClass/Animal.php");
+class Tiger extends Animal{
+    public function makeSound(): string
+    {
+        // TODO: Implement makeSound() method.
+        return "Tiger: Roarrrrrrrrrrr";
+    }
+}
