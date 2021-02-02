@@ -4,36 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dad0a16-bc52-4483-965e-79c3a505ccc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php-shape/Resizable/Resize.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practices/Shape_comparation_Interface/Circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practices/Shape_comparation_Interface/Comparable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practices/Shape_comparation_Interface/ComparableCircle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practices/Shape_comparation_Interface/ComparableCircleMain.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../exercises_week1/currencies/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises_week1/currencies/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../exercises_week1/prime_numbers_list/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises_week1/prime_numbers_list/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../exercises_week1/stopwatch/Stopwatch.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises_week1/stopwatch/Stopwatch.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../exercises_week1/stopwatch/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises_week1/stopwatch/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pratices-week1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pratices-week1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Circle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Cylinder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Rectangle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Shape.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/Square.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pratices-week1/Shapes_class/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-shape/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-shape/Circle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-shape/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-shape/Cylinder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-shape/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-shape/Rectangle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-shape/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-shape/Square.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-shape/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-shape/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practices/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practices/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6dad0a16-bc52-4483-965e-79c3a505ccc0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ComposerSettings">
     <execution />
   </component>
