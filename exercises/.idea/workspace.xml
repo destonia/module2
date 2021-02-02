@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dad0a16-bc52-4483-965e-79c3a505ccc0" name="Default Changelist" comment="excercises week2 Resizable Interface">
+      <change beforePath="$PROJECT_DIR$/php-shape" beforeDir="false" afterPath="$PROJECT_DIR$/php-shape" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/php-shape/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-shape/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
